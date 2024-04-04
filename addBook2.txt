@@ -1,0 +1,6 @@
+황동하,010-2512-6818,D:/hdh2024/myPrj02/res/04.jpg
+김유신장군,010-1234-1234,D:/hdh2024/myPrj02/res/04.jpg
+강감찬장군님,010-1234-1234,D:/hdh2024/myPrj02/res/코트.jpg
+하이,131231,./res/unknown.jpg
+하이,131231,./res/unknown.jpg
+하이,131231,./res/unknown.jpg
